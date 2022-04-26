@@ -335,7 +335,7 @@ body.dark-theme {
   color: #fff;
   z-index: 999;
   padding: 0.5rem;
-  font-size: var(--small-font-size);
+  font-size:var(--small-font-size);
   background-color: black;
   border-radius: 0.3rem;
 }
